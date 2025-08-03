@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import java.io.File;
 import java.time.Duration;
 
-public class UICommonFucntions {
+public class UICommonFunctions {
 
     public static void waitForVisibility(WebDriver driver, WebElement element, int seconds) {
         new WebDriverWait(driver, Duration.ofSeconds(seconds))

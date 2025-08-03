@@ -6,12 +6,12 @@ import io.cucumber.java.*;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
-import utilities.UICommonFucntions;
+import utilities.UICommonFunctions;
 
 public class Hooks {
     private BrowserFactory browserFactory;
     private WebDriver driver;
-    private UICommonFucntions UICommonFun ;
+    private UICommonFunctions UICommonFun ;
 
     @Before
     public void setUp() {

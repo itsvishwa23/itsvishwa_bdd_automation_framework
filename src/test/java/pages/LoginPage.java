@@ -8,7 +8,7 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
-import static utilities.UICommonFucntions.waitForVisibility;
+import static utilities.UICommonFunctions.waitForVisibility;
 
 public class LoginPage {
 
