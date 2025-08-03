@@ -1,17 +1,13 @@
 package stepDefination;
 
-import utilities.BaseSteps;
 import utilities.BrowserFactory;
 import io.cucumber.java.en.*;
-import org.apache.logging.log4j.Logger;
 import org.openqa.selenium.WebDriver;
 import pages.LoginPage;
 
 public class Login {
-    private BaseSteps baseSteps;
-    private Logger log;
-    private WebDriver driver= BrowserFactory.getDriverInstance();
 
+    private WebDriver driver= BrowserFactory.getDriverInstance();
     private LoginPage loginpage  = new LoginPage(driver);
 
     @Given("User is on the OrangeHRM login page")

@@ -7,10 +7,8 @@ import java.io.IOException;
 import java.util.Properties;
 
 public class BaseSteps {
-    //public static WebDriver driver;
     private Properties prop;
     private String applicationURL;
-    private String browser;
     private Logger log;
 
 

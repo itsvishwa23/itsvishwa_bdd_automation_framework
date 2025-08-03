@@ -1,680 +1,762 @@
-13:59:02.217 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-13:59:12.538 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-13:59:12.539 [main]INFO  stepDefinition.OpenLogInPageStepDef - User navigated to application
-13:59:12.631 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-13:59:14.253 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-13:59:14.257 [main]INFO  stepDefinition.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
-13:59:14.277 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-13:59:14.284 [main]INFO  stepDefinition.OpenLogInPageStepDef - User is entering user Name and password
-13:59:14.662 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-13:59:14.908 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-13:59:14.910 [main]INFO  stepDefinition.OpenLogInPageStepDef - user is clicking on Login button
-13:59:18.350 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-13:59:18.352 [main]INFO  stepDefinition.OpenLogInPageStepDef - User is verifying application is navigated to user Home Page
-13:59:18.371 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-13:59:18.381 [main]INFO  stepDefinition.OpenLogInPageStepDef - User is trying to click on logout link
-13:59:20.546 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-13:59:20.547 [main]INFO  stepDefinition.OpenLogInPageStepDef - Trying to quit  browser
-13:59:20.892 [main]INFO  automationUtilities.BaseSteps - driver is closed
-14:03:45.659 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-14:03:53.768 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-14:03:53.840 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-14:03:56.020 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-14:03:56.021 [main]INFO  stepDefinition.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
-14:03:56.035 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-14:03:56.037 [main]INFO  stepDefinition.OpenLogInPageStepDef - User is entering user Name and password
-14:03:56.263 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-14:03:56.421 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-14:03:56.422 [main]INFO  stepDefinition.OpenLogInPageStepDef - user is clicking on Login button
-14:03:59.956 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-14:03:59.959 [main]INFO  stepDefinition.OpenLogInPageStepDef - User is verifying application is navigated to user Home Page
-14:03:59.985 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-14:03:59.992 [main]INFO  stepDefinition.OpenLogInPageStepDef - User is trying to click on logout link
-14:04:02.497 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-14:04:02.499 [main]INFO  stepDefinition.OpenLogInPageStepDef - Trying to quit  browser
-14:04:02.865 [main]INFO  automationUtilities.BaseSteps - driver is closed
-12:03:19.989 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-12:08:15.798 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-12:18:02.335 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-12:19:28.548 [main]INFO  automationUtilities.BrowserFactory - Browser isnull
-12:19:28.568 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-12:22:37.391 [main]INFO  automationUtilities.BrowserFactory - Browser ischrome
-12:22:43.378 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-12:32:54.084 [main]INFO  automationUtilities.BrowserFactory - Browser ischrome
-12:32:56.584 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-12:33:02.558 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-12:33:02.600 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-12:33:04.550 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-12:33:04.551 [main]INFO  stepDefinition.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
-12:33:04.563 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-12:35:32.749 [main]INFO  automationUtilities.BrowserFactory - Browser ischrome
-12:35:35.720 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-12:35:40.124 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-12:35:40.185 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-12:35:41.647 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-12:35:41.648 [main]INFO  stepDefinition.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
-12:35:41.666 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-12:38:02.551 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-12:38:05.621 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-12:38:08.899 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-12:38:08.939 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-12:38:10.181 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-12:38:10.183 [main]INFO  stepDefinition.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
-12:38:10.232 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-13:14:26.116 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-13:14:30.611 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-13:14:34.933 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-13:14:35.019 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-13:14:37.129 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-13:14:37.131 [main]INFO  stepDefinition.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
-13:14:37.158 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is not displayed
-13:17:06.336 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-13:17:09.957 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-13:17:13.754 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-13:17:13.836 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-13:17:16.211 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-13:17:16.213 [main]INFO  stepDefinition.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
-13:17:16.236 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is not displayed
-13:19:17.281 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-13:19:22.650 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-13:19:27.955 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-13:19:28.077 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-13:19:29.717 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-13:19:29.719 [main]INFO  stepDefinition.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
-13:19:29.735 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-18:23:17.051 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:23:22.330 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:23:26.089 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:23:26.149 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:23:28.047 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:25:13.655 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:25:16.846 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:25:20.476 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:25:20.537 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:25:21.443 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:25:21.448 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-18:25:21.505 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-18:38:11.519 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:38:24.912 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:38:31.390 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:38:31.509 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:38:35.597 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:38:35.609 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-18:38:36.463 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-18:43:40.812 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:43:54.715 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:43:59.301 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:43:59.423 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:44:01.836 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:44:01.842 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-18:44:01.999 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-18:46:23.538 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:46:31.673 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:46:36.499 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:46:36.654 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:46:39.458 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:46:39.467 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-18:46:40.031 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-18:48:09.784 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:48:16.635 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:48:22.576 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:48:22.730 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:48:25.024 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:48:25.036 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-18:48:26.014 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is not displayed
-18:50:33.346 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:50:41.168 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:50:46.506 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:50:46.773 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:50:49.809 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:50:49.819 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-18:50:49.872 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is not displayed
-18:50:51.855 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:50:56.311 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:51:00.102 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:51:00.112 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:51:03.751 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:51:03.763 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-18:51:04.004 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is not displayed
-18:51:53.288 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:51:58.231 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:52:03.412 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:52:03.643 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:52:06.240 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:52:06.253 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-18:52:06.299 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-18:52:07.847 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:52:13.308 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:52:18.069 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:52:18.072 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:52:20.554 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:52:20.556 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-18:52:20.640 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-18:52:20.654 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-18:52:21.861 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-18:52:22.386 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-18:52:22.388 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-18:52:25.804 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-18:52:25.807 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-18:52:25.968 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-18:52:25.980 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-18:52:28.380 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-18:54:37.842 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:54:42.361 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:54:46.357 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:54:46.425 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:54:48.239 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:54:48.243 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-18:54:48.267 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-18:54:49.111 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:54:51.408 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:54:56.349 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:54:56.351 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:54:57.857 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:54:57.859 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-18:54:57.881 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-18:54:57.888 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-18:54:58.231 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-18:54:58.443 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-18:54:58.445 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-18:55:01.246 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-18:55:01.248 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-18:55:01.277 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-18:55:01.280 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-18:55:02.790 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-18:55:03.401 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:55:05.083 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:55:10.069 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:55:10.070 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:55:11.641 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:55:11.643 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-18:55:11.660 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-18:55:11.662 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-18:55:12.021 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
-18:55:12.196 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-18:55:12.197 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-18:55:15.134 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-18:55:15.135 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-18:55:15.156 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-18:55:15.158 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-18:55:17.188 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-18:55:17.761 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-18:55:19.396 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-18:55:24.518 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-18:55:24.521 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-18:55:26.227 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-18:55:26.230 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-18:55:26.254 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-18:55:26.256 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-18:55:26.637 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
-18:55:26.813 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses1
-18:55:26.814 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-18:55:28.060 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-18:55:28.061 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-20:51:47.577 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-20:51:51.649 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-20:51:54.986 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-20:51:55.043 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-20:51:56.521 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-20:51:56.534 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-20:51:56.565 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-20:51:57.270 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-20:51:58.965 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-20:52:03.278 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-20:52:03.282 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-20:52:05.484 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-20:52:05.486 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-20:52:05.502 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-20:52:05.506 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-20:52:05.837 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-20:52:06.054 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-20:52:06.054 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-20:52:08.932 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-20:52:08.935 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-20:52:08.962 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-20:52:08.964 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-20:52:10.601 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-20:52:11.169 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-20:52:12.810 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-20:52:17.714 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-20:52:17.718 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-20:52:19.130 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-20:52:19.132 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-20:52:19.149 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-20:52:19.150 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-20:52:19.577 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
-20:52:19.735 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-20:52:19.735 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-20:52:22.912 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-20:52:22.914 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-20:52:22.930 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-20:52:22.931 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-20:52:24.334 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-20:52:24.875 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-20:52:26.549 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-20:52:37.483 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-20:52:37.485 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-20:52:39.598 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-20:52:39.599 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-20:52:39.611 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-20:52:39.612 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-20:52:40.013 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
-20:52:40.221 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses1
-20:52:40.222 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-20:52:41.899 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-20:52:41.900 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:20:23.797 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:20:27.766 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:20:31.204 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:20:31.270 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:20:32.679 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:20:32.683 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:20:32.745 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:20:33.346 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:20:35.274 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:20:38.985 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:20:38.988 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:20:40.094 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:20:40.095 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:20:40.112 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:20:40.115 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:20:40.470 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-21:20:40.607 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-21:20:40.609 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:20:42.679 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:20:42.683 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:20:42.711 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-21:20:42.713 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-21:20:44.099 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-21:20:44.570 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:20:46.177 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:20:49.546 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:20:49.548 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:20:50.964 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:20:50.966 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:20:50.984 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:20:50.985 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:20:51.232 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
-21:20:51.415 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-21:20:51.416 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:20:54.985 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:20:54.986 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:20:54.999 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-21:20:55.000 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-21:20:56.568 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-21:20:57.111 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:20:58.838 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:21:04.246 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:21:04.249 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:21:05.515 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:21:05.516 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:21:05.530 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:21:05.531 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:21:05.945 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
-21:21:06.109 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses1
-21:21:06.109 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:21:07.396 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:21:07.397 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:23:22.687 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:23:26.199 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:23:29.537 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:23:29.566 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:23:31.319 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:23:31.321 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:23:31.346 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:23:32.044 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:23:33.780 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:23:38.031 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:23:38.037 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:23:39.824 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:23:39.827 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:23:39.851 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:23:39.859 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:23:40.284 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-21:23:40.470 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-21:23:40.473 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:24:55.832 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:24:55.833 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:24:55.849 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-21:24:55.850 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-21:24:57.241 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-21:24:57.795 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:25:00.279 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:25:05.484 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:25:05.489 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:25:06.846 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:25:06.848 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:25:06.865 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:25:06.866 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:25:07.186 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
-21:25:07.348 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-21:25:07.349 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:25:10.281 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:25:10.283 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:25:10.305 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-21:25:10.308 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-21:25:11.899 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-21:25:12.401 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:25:14.106 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:25:17.401 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:25:17.402 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:25:18.665 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:25:18.666 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:25:18.685 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:25:18.687 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:25:19.134 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
-21:25:19.312 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses1
-21:25:19.313 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:25:20.482 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:25:20.484 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:27:46.093 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:27:48.533 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:27:52.053 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:27:52.112 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:27:53.471 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:27:53.478 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:27:53.498 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:27:54.215 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:27:55.798 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:27:59.255 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:27:59.258 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:28:00.671 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:28:00.674 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:28:00.698 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:28:00.703 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:28:01.143 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-21:28:01.300 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-21:28:01.301 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:28:03.928 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:28:03.929 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:28:03.939 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-21:28:03.941 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-21:28:05.533 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-21:28:06.011 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:28:07.588 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:28:10.931 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:28:10.932 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:28:12.843 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:28:12.844 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:28:12.856 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:28:12.858 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:28:13.214 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
-21:28:13.375 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-21:28:13.375 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:28:16.226 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:28:16.228 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:28:16.246 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-21:28:16.248 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-21:28:17.793 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-21:28:18.454 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:28:20.120 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:28:23.415 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:28:23.418 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:28:24.909 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:28:24.911 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:28:24.926 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:28:24.928 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:28:25.262 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
-21:28:25.415 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses1
-21:28:25.416 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:28:26.680 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:28:26.681 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:33:08.054 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:33:10.214 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:33:13.415 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:33:13.465 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:33:14.829 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:33:14.834 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:33:14.853 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:33:15.507 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:33:17.056 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:33:21.904 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:33:21.910 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:33:23.108 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:33:23.111 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:33:23.132 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:33:23.138 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:33:23.446 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-21:33:23.605 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-21:33:23.607 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:33:26.353 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:33:26.356 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:33:26.377 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-21:33:26.378 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-21:33:27.848 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-21:33:28.318 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:33:30.118 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:33:33.350 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:33:33.352 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:33:34.561 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:33:34.562 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:33:34.581 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:33:34.582 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:33:35.031 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
-21:33:35.242 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-21:33:35.242 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:33:37.329 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:33:37.330 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:33:37.346 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-21:33:37.346 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-21:33:38.946 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-21:33:39.402 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:33:41.003 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:33:44.349 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:33:44.353 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:33:46.262 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:33:46.265 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:33:46.282 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:33:46.283 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:33:46.611 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
-21:33:46.793 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses1
-21:33:46.794 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:33:48.225 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:33:48.227 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:35:55.806 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:35:58.318 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:36:01.668 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:36:01.717 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:36:04.260 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:36:04.262 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:36:04.278 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:36:04.797 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:36:06.415 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:36:11.363 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:36:11.364 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:36:13.498 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:36:13.499 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:36:13.526 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:36:13.530 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:36:13.861 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-21:36:14.012 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-21:36:14.013 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:36:18.293 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:36:18.296 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:36:18.321 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-21:36:18.324 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-21:36:19.907 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-21:42:52.215 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:42:55.325 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:42:59.868 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:42:59.909 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:43:02.036 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:43:02.042 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:43:02.068 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:43:02.569 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:43:04.241 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:43:07.837 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:43:07.843 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:43:09.226 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:43:09.230 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:43:09.253 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:43:09.261 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:43:09.609 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-21:43:09.767 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-21:43:09.769 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:43:14.775 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:43:14.778 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:43:14.793 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-21:43:14.795 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-21:43:16.133 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-21:46:52.650 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:46:55.808 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:47:00.846 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:47:00.915 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:47:02.253 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:47:02.261 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:47:02.310 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:47:03.160 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:47:05.145 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:47:08.354 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:47:08.363 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:47:09.598 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:47:09.600 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:47:09.613 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:47:09.617 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:47:09.916 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-21:47:10.087 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-21:47:10.090 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:47:12.096 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:47:12.099 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:47:12.120 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-21:47:12.125 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-21:47:13.593 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-21:47:14.091 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:47:15.832 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:47:19.384 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:47:19.394 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:47:20.719 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:47:20.721 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:47:20.733 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:47:20.736 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:47:21.029 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
-21:47:21.207 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-21:47:21.209 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:47:23.417 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:47:23.420 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-21:47:23.441 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-21:47:23.443 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-21:47:24.864 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-21:47:25.404 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-21:47:26.938 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-21:47:30.398 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-21:47:30.404 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-21:47:31.861 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-21:47:31.863 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-21:47:31.877 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-21:47:31.878 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-21:47:32.231 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
-21:47:32.400 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses1
-21:47:32.401 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-21:47:33.635 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-21:47:33.637 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-22:11:07.131 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-22:11:17.290 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-22:11:27.031 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-22:11:27.211 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-22:11:29.445 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-22:11:29.452 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-22:11:29.499 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-22:11:52.306 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-22:12:00.027 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-22:12:05.615 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-22:12:05.622 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-22:12:10.560 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-22:12:10.571 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-22:12:11.060 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-22:12:11.075 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-22:12:13.081 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-22:12:13.870 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-22:12:13.881 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-22:12:25.120 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-22:12:25.127 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-22:12:25.160 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-22:12:25.164 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-22:12:30.146 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-22:12:31.694 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-22:12:40.889 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-22:12:46.843 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-22:12:46.849 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-22:12:49.163 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-22:12:49.170 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-22:12:50.511 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-22:12:50.517 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-22:12:52.008 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
-22:12:52.463 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-22:12:52.470 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-22:12:57.176 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-22:12:57.185 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-22:12:57.253 [main]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-22:12:57.261 [main]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-22:12:59.224 [main]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-22:13:01.407 [main]INFO  automationUtilities.BrowserFactory - Browser is chrome
-22:13:06.539 [main]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-22:13:11.794 [main]INFO  automationUtilities.BaseSteps - Navigated to application
-22:13:11.797 [main]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-22:13:13.367 [main]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-22:13:13.372 [main]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-22:13:13.410 [main]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-22:13:13.412 [main]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-22:13:14.446 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
-22:13:14.931 [main]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses1
-22:13:14.934 [main]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-22:13:16.453 [main]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-22:13:16.459 [main]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-22:21:48.081 [pool-3-thread-1]INFO  automationUtilities.BrowserFactory - Browser is chrome
-22:21:57.356 [pool-3-thread-3]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-22:21:57.358 [pool-3-thread-2]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-22:21:57.359 [pool-3-thread-1]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-22:22:02.795 [pool-3-thread-3]INFO  automationUtilities.BaseSteps - Navigated to application
-22:22:03.328 [pool-3-thread-3]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-22:22:03.807 [pool-3-thread-1]INFO  automationUtilities.BaseSteps - Navigated to application
-22:22:03.816 [pool-3-thread-1]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-22:22:04.746 [pool-3-thread-2]INFO  automationUtilities.BaseSteps - Navigated to application
-22:22:04.754 [pool-3-thread-2]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-22:22:05.650 [pool-3-thread-3]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-22:22:05.657 [pool-3-thread-3]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-22:22:05.796 [pool-3-thread-3]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-22:22:05.817 [pool-3-thread-3]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-22:22:06.276 [pool-3-thread-3]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com 
-22:22:06.694 [pool-3-thread-3]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-22:22:06.697 [pool-3-thread-3]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-22:22:07.424 [pool-3-thread-2]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-22:22:07.427 [pool-3-thread-2]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-22:22:07.483 [pool-3-thread-2]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-22:22:10.092 [pool-3-thread-3]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-22:22:10.096 [pool-3-thread-3]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-22:22:10.174 [pool-3-thread-3]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-22:22:10.176 [pool-3-thread-3]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-22:22:10.509 [pool-3-thread-1]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-22:22:10.511 [pool-3-thread-1]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-22:22:10.550 [pool-3-thread-1]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-22:22:12.766 [pool-3-thread-3]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-22:22:15.188 [pool-3-thread-3]INFO  automationUtilities.BrowserFactory - Browser is chrome
-22:22:18.609 [pool-3-thread-3]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-22:22:21.969 [pool-3-thread-3]INFO  automationUtilities.BaseSteps - Navigated to application
-22:22:21.972 [pool-3-thread-3]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-22:22:23.454 [pool-3-thread-3]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-22:22:23.455 [pool-3-thread-3]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-22:22:23.468 [pool-3-thread-3]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-22:22:23.469 [pool-3-thread-3]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-22:22:23.835 [pool-3-thread-3]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
-22:22:23.958 [pool-3-thread-3]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses
-22:22:23.959 [pool-3-thread-3]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-22:22:28.138 [pool-3-thread-3]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-22:22:28.140 [pool-3-thread-3]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
-22:22:28.159 [pool-3-thread-3]INFO  pageObjectClasses.UserHomePage - User Home page is displayed
-22:22:28.160 [pool-3-thread-3]INFO  stepDefinition.UserHomePageStepDef - User is trying to click on logout link
-22:22:29.985 [pool-3-thread-3]INFO  pageObjectClasses.UserHomePage - Clicked on logout link
-22:22:30.750 [pool-3-thread-3]INFO  automationUtilities.BrowserFactory - Browser is chrome
-22:22:33.194 [pool-3-thread-3]INFO  stepDefinition.OpenLogInPageStepDef - User trying to  navigate to application
-22:22:38.529 [pool-3-thread-3]INFO  automationUtilities.BaseSteps - Navigated to application
-22:22:38.532 [pool-3-thread-3]INFO  stepDefinition.OpenLogInPageStepDef - User  trying to click on log in link
-22:22:40.006 [pool-3-thread-3]INFO  pageObjectClasses.HomePage - Clicked on SignUp Or Login Link
-22:22:40.008 [pool-3-thread-3]INFO  stepDefinition.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
-22:22:40.020 [pool-3-thread-3]INFO  pageObjectClasses.SignUpLoginPage - SignUp Or Login page is displayed
-22:22:40.021 [pool-3-thread-3]INFO  stepDefinition.SignUpLogInPageStepDef - User is entering user Name and password
-22:22:40.378 [pool-3-thread-3]INFO  pageObjectClasses.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
-22:22:40.494 [pool-3-thread-3]INFO  pageObjectClasses.SignUpLoginPage - Entered password is  :QAAutomationClasses1
-22:22:40.495 [pool-3-thread-3]INFO  stepDefinition.SignUpLogInPageStepDef - user is clicking on Login button
-22:22:41.906 [pool-3-thread-3]INFO  pageObjectClasses.SignUpLoginPage - Clicked on login button
-22:22:41.909 [pool-3-thread-3]INFO  stepDefinition.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+13:59:02.217 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+13:59:12.538 [main]INFO  utilities.BaseSteps - Navigated to application
+13:59:12.539 [main]INFO  stepDefination.OpenLogInPageStepDef - User navigated to application
+13:59:12.631 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+13:59:14.253 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+13:59:14.257 [main]INFO  stepDefination.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
+13:59:14.277 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+13:59:14.284 [main]INFO  stepDefination.OpenLogInPageStepDef - User is entering user Name and password
+13:59:14.662 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+13:59:14.908 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+13:59:14.910 [main]INFO  stepDefination.OpenLogInPageStepDef - user is clicking on Login button
+13:59:18.350 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+13:59:18.352 [main]INFO  stepDefination.OpenLogInPageStepDef - User is verifying application is navigated to user Home Page
+13:59:18.371 [main]INFO  pages.UserHomePage - User Home page is displayed
+13:59:18.381 [main]INFO  stepDefination.OpenLogInPageStepDef - User is trying to click on logout link
+13:59:20.546 [main]INFO  pages.UserHomePage - Clicked on logout link
+13:59:20.547 [main]INFO  stepDefination.OpenLogInPageStepDef - Trying to quit  browser
+13:59:20.892 [main]INFO  utilities.BaseSteps - driver is closed
+14:03:45.659 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+14:03:53.768 [main]INFO  utilities.BaseSteps - Navigated to application
+14:03:53.840 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+14:03:56.020 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+14:03:56.021 [main]INFO  stepDefination.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
+14:03:56.035 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+14:03:56.037 [main]INFO  stepDefination.OpenLogInPageStepDef - User is entering user Name and password
+14:03:56.263 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+14:03:56.421 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+14:03:56.422 [main]INFO  stepDefination.OpenLogInPageStepDef - user is clicking on Login button
+14:03:59.956 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+14:03:59.959 [main]INFO  stepDefination.OpenLogInPageStepDef - User is verifying application is navigated to user Home Page
+14:03:59.985 [main]INFO  pages.UserHomePage - User Home page is displayed
+14:03:59.992 [main]INFO  stepDefination.OpenLogInPageStepDef - User is trying to click on logout link
+14:04:02.497 [main]INFO  pages.UserHomePage - Clicked on logout link
+14:04:02.499 [main]INFO  stepDefination.OpenLogInPageStepDef - Trying to quit  browser
+14:04:02.865 [main]INFO  utilities.BaseSteps - driver is closed
+12:03:19.989 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+12:08:15.798 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+12:18:02.335 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+12:19:28.548 [main]INFO  utilities.BrowserFactory - Browser isnull
+12:19:28.568 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+12:22:37.391 [main]INFO  utilities.BrowserFactory - Browser ischrome
+12:22:43.378 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+12:32:54.084 [main]INFO  utilities.BrowserFactory - Browser ischrome
+12:32:56.584 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+12:33:02.558 [main]INFO  utilities.BaseSteps - Navigated to application
+12:33:02.600 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+12:33:04.550 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+12:33:04.551 [main]INFO  stepDefination.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
+12:33:04.563 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+12:35:32.749 [main]INFO  utilities.BrowserFactory - Browser ischrome
+12:35:35.720 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+12:35:40.124 [main]INFO  utilities.BaseSteps - Navigated to application
+12:35:40.185 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+12:35:41.647 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+12:35:41.648 [main]INFO  stepDefination.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
+12:35:41.666 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+12:38:02.551 [main]INFO  utilities.BrowserFactory - Browser is chrome
+12:38:05.621 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+12:38:08.899 [main]INFO  utilities.BaseSteps - Navigated to application
+12:38:08.939 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+12:38:10.181 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+12:38:10.183 [main]INFO  stepDefination.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
+12:38:10.232 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+13:14:26.116 [main]INFO  utilities.BrowserFactory - Browser is chrome
+13:14:30.611 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+13:14:34.933 [main]INFO  utilities.BaseSteps - Navigated to application
+13:14:35.019 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+13:14:37.129 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+13:14:37.131 [main]INFO  stepDefination.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
+13:14:37.158 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is not displayed
+13:17:06.336 [main]INFO  utilities.BrowserFactory - Browser is chrome
+13:17:09.957 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+13:17:13.754 [main]INFO  utilities.BaseSteps - Navigated to application
+13:17:13.836 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+13:17:16.211 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+13:17:16.213 [main]INFO  stepDefination.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
+13:17:16.236 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is not displayed
+13:19:17.281 [main]INFO  utilities.BrowserFactory - Browser is chrome
+13:19:22.650 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+13:19:27.955 [main]INFO  utilities.BaseSteps - Navigated to application
+13:19:28.077 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+13:19:29.717 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+13:19:29.719 [main]INFO  stepDefination.OpenLogInPageStepDef - Verifying SignUp/Login Page is displayed
+13:19:29.735 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+18:23:17.051 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:23:22.330 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:23:26.089 [main]INFO  utilities.BaseSteps - Navigated to application
+18:23:26.149 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:23:28.047 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:25:13.655 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:25:16.846 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:25:20.476 [main]INFO  utilities.BaseSteps - Navigated to application
+18:25:20.537 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:25:21.443 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:25:21.448 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+18:25:21.505 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+18:38:11.519 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:38:24.912 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:38:31.390 [main]INFO  utilities.BaseSteps - Navigated to application
+18:38:31.509 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:38:35.597 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:38:35.609 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+18:38:36.463 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+18:43:40.812 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:43:54.715 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:43:59.301 [main]INFO  utilities.BaseSteps - Navigated to application
+18:43:59.423 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:44:01.836 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:44:01.842 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+18:44:01.999 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+18:46:23.538 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:46:31.673 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:46:36.499 [main]INFO  utilities.BaseSteps - Navigated to application
+18:46:36.654 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:46:39.458 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:46:39.467 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+18:46:40.031 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+18:48:09.784 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:48:16.635 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:48:22.576 [main]INFO  utilities.BaseSteps - Navigated to application
+18:48:22.730 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:48:25.024 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:48:25.036 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+18:48:26.014 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is not displayed
+18:50:33.346 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:50:41.168 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:50:46.506 [main]INFO  utilities.BaseSteps - Navigated to application
+18:50:46.773 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:50:49.809 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:50:49.819 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+18:50:49.872 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is not displayed
+18:50:51.855 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:50:56.311 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:51:00.102 [main]INFO  utilities.BaseSteps - Navigated to application
+18:51:00.112 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:51:03.751 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:51:03.763 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+18:51:04.004 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is not displayed
+18:51:53.288 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:51:58.231 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:52:03.412 [main]INFO  utilities.BaseSteps - Navigated to application
+18:52:03.643 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:52:06.240 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:52:06.253 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+18:52:06.299 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+18:52:07.847 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:52:13.308 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:52:18.069 [main]INFO  utilities.BaseSteps - Navigated to application
+18:52:18.072 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:52:20.554 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:52:20.556 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+18:52:20.640 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+18:52:20.654 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+18:52:21.861 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+18:52:22.386 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+18:52:22.388 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+18:52:25.804 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+18:52:25.807 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+18:52:25.968 [main]INFO  pages.UserHomePage - User Home page is displayed
+18:52:25.980 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+18:52:28.380 [main]INFO  pages.UserHomePage - Clicked on logout link
+18:54:37.842 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:54:42.361 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:54:46.357 [main]INFO  utilities.BaseSteps - Navigated to application
+18:54:46.425 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:54:48.239 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:54:48.243 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+18:54:48.267 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+18:54:49.111 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:54:51.408 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:54:56.349 [main]INFO  utilities.BaseSteps - Navigated to application
+18:54:56.351 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:54:57.857 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:54:57.859 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+18:54:57.881 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+18:54:57.888 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+18:54:58.231 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+18:54:58.443 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+18:54:58.445 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+18:55:01.246 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+18:55:01.248 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+18:55:01.277 [main]INFO  pages.UserHomePage - User Home page is displayed
+18:55:01.280 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+18:55:02.790 [main]INFO  pages.UserHomePage - Clicked on logout link
+18:55:03.401 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:55:05.083 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:55:10.069 [main]INFO  utilities.BaseSteps - Navigated to application
+18:55:10.070 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:55:11.641 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:55:11.643 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+18:55:11.660 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+18:55:11.662 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+18:55:12.021 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+18:55:12.196 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+18:55:12.197 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+18:55:15.134 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+18:55:15.135 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+18:55:15.156 [main]INFO  pages.UserHomePage - User Home page is displayed
+18:55:15.158 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+18:55:17.188 [main]INFO  pages.UserHomePage - Clicked on logout link
+18:55:17.761 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:55:19.396 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+18:55:24.518 [main]INFO  utilities.BaseSteps - Navigated to application
+18:55:24.521 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+18:55:26.227 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+18:55:26.230 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+18:55:26.254 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+18:55:26.256 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+18:55:26.637 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
+18:55:26.813 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses1
+18:55:26.814 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+18:55:28.060 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+18:55:28.061 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+20:51:47.577 [main]INFO  utilities.BrowserFactory - Browser is chrome
+20:51:51.649 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+20:51:54.986 [main]INFO  utilities.BaseSteps - Navigated to application
+20:51:55.043 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+20:51:56.521 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+20:51:56.534 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+20:51:56.565 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+20:51:57.270 [main]INFO  utilities.BrowserFactory - Browser is chrome
+20:51:58.965 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+20:52:03.278 [main]INFO  utilities.BaseSteps - Navigated to application
+20:52:03.282 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+20:52:05.484 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+20:52:05.486 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+20:52:05.502 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+20:52:05.506 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+20:52:05.837 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+20:52:06.054 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+20:52:06.054 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+20:52:08.932 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+20:52:08.935 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+20:52:08.962 [main]INFO  pages.UserHomePage - User Home page is displayed
+20:52:08.964 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+20:52:10.601 [main]INFO  pages.UserHomePage - Clicked on logout link
+20:52:11.169 [main]INFO  utilities.BrowserFactory - Browser is chrome
+20:52:12.810 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+20:52:17.714 [main]INFO  utilities.BaseSteps - Navigated to application
+20:52:17.718 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+20:52:19.130 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+20:52:19.132 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+20:52:19.149 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+20:52:19.150 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+20:52:19.577 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+20:52:19.735 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+20:52:19.735 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+20:52:22.912 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+20:52:22.914 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+20:52:22.930 [main]INFO  pages.UserHomePage - User Home page is displayed
+20:52:22.931 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+20:52:24.334 [main]INFO  pages.UserHomePage - Clicked on logout link
+20:52:24.875 [main]INFO  utilities.BrowserFactory - Browser is chrome
+20:52:26.549 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+20:52:37.483 [main]INFO  utilities.BaseSteps - Navigated to application
+20:52:37.485 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+20:52:39.598 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+20:52:39.599 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+20:52:39.611 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+20:52:39.612 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+20:52:40.013 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
+20:52:40.221 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses1
+20:52:40.222 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+20:52:41.899 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+20:52:41.900 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:20:23.797 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:20:27.766 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:20:31.204 [main]INFO  utilities.BaseSteps - Navigated to application
+21:20:31.270 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:20:32.679 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:20:32.683 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:20:32.745 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:20:33.346 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:20:35.274 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:20:38.985 [main]INFO  utilities.BaseSteps - Navigated to application
+21:20:38.988 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:20:40.094 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:20:40.095 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:20:40.112 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:20:40.115 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:20:40.470 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+21:20:40.607 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+21:20:40.609 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:20:42.679 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:20:42.683 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:20:42.711 [main]INFO  pages.UserHomePage - User Home page is displayed
+21:20:42.713 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+21:20:44.099 [main]INFO  pages.UserHomePage - Clicked on logout link
+21:20:44.570 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:20:46.177 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:20:49.546 [main]INFO  utilities.BaseSteps - Navigated to application
+21:20:49.548 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:20:50.964 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:20:50.966 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:20:50.984 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:20:50.985 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:20:51.232 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+21:20:51.415 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+21:20:51.416 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:20:54.985 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:20:54.986 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:20:54.999 [main]INFO  pages.UserHomePage - User Home page is displayed
+21:20:55.000 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+21:20:56.568 [main]INFO  pages.UserHomePage - Clicked on logout link
+21:20:57.111 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:20:58.838 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:21:04.246 [main]INFO  utilities.BaseSteps - Navigated to application
+21:21:04.249 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:21:05.515 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:21:05.516 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:21:05.530 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:21:05.531 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:21:05.945 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
+21:21:06.109 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses1
+21:21:06.109 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:21:07.396 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:21:07.397 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:23:22.687 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:23:26.199 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:23:29.537 [main]INFO  utilities.BaseSteps - Navigated to application
+21:23:29.566 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:23:31.319 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:23:31.321 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:23:31.346 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:23:32.044 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:23:33.780 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:23:38.031 [main]INFO  utilities.BaseSteps - Navigated to application
+21:23:38.037 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:23:39.824 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:23:39.827 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:23:39.851 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:23:39.859 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:23:40.284 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+21:23:40.470 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+21:23:40.473 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:24:55.832 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:24:55.833 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:24:55.849 [main]INFO  pages.UserHomePage - User Home page is displayed
+21:24:55.850 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+21:24:57.241 [main]INFO  pages.UserHomePage - Clicked on logout link
+21:24:57.795 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:25:00.279 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:25:05.484 [main]INFO  utilities.BaseSteps - Navigated to application
+21:25:05.489 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:25:06.846 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:25:06.848 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:25:06.865 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:25:06.866 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:25:07.186 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+21:25:07.348 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+21:25:07.349 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:25:10.281 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:25:10.283 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:25:10.305 [main]INFO  pages.UserHomePage - User Home page is displayed
+21:25:10.308 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+21:25:11.899 [main]INFO  pages.UserHomePage - Clicked on logout link
+21:25:12.401 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:25:14.106 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:25:17.401 [main]INFO  utilities.BaseSteps - Navigated to application
+21:25:17.402 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:25:18.665 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:25:18.666 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:25:18.685 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:25:18.687 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:25:19.134 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
+21:25:19.312 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses1
+21:25:19.313 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:25:20.482 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:25:20.484 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:27:46.093 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:27:48.533 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:27:52.053 [main]INFO  utilities.BaseSteps - Navigated to application
+21:27:52.112 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:27:53.471 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:27:53.478 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:27:53.498 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:27:54.215 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:27:55.798 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:27:59.255 [main]INFO  utilities.BaseSteps - Navigated to application
+21:27:59.258 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:28:00.671 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:28:00.674 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:28:00.698 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:28:00.703 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:28:01.143 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+21:28:01.300 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+21:28:01.301 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:28:03.928 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:28:03.929 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:28:03.939 [main]INFO  pages.UserHomePage - User Home page is displayed
+21:28:03.941 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+21:28:05.533 [main]INFO  pages.UserHomePage - Clicked on logout link
+21:28:06.011 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:28:07.588 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:28:10.931 [main]INFO  utilities.BaseSteps - Navigated to application
+21:28:10.932 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:28:12.843 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:28:12.844 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:28:12.856 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:28:12.858 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:28:13.214 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+21:28:13.375 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+21:28:13.375 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:28:16.226 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:28:16.228 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:28:16.246 [main]INFO  pages.UserHomePage - User Home page is displayed
+21:28:16.248 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+21:28:17.793 [main]INFO  pages.UserHomePage - Clicked on logout link
+21:28:18.454 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:28:20.120 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:28:23.415 [main]INFO  utilities.BaseSteps - Navigated to application
+21:28:23.418 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:28:24.909 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:28:24.911 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:28:24.926 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:28:24.928 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:28:25.262 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
+21:28:25.415 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses1
+21:28:25.416 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:28:26.680 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:28:26.681 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:33:08.054 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:33:10.214 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:33:13.415 [main]INFO  utilities.BaseSteps - Navigated to application
+21:33:13.465 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:33:14.829 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:33:14.834 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:33:14.853 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:33:15.507 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:33:17.056 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:33:21.904 [main]INFO  utilities.BaseSteps - Navigated to application
+21:33:21.910 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:33:23.108 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:33:23.111 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:33:23.132 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:33:23.138 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:33:23.446 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+21:33:23.605 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+21:33:23.607 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:33:26.353 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:33:26.356 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:33:26.377 [main]INFO  pages.UserHomePage - User Home page is displayed
+21:33:26.378 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+21:33:27.848 [main]INFO  pages.UserHomePage - Clicked on logout link
+21:33:28.318 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:33:30.118 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:33:33.350 [main]INFO  utilities.BaseSteps - Navigated to application
+21:33:33.352 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:33:34.561 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:33:34.562 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:33:34.581 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:33:34.582 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:33:35.031 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+21:33:35.242 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+21:33:35.242 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:33:37.329 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:33:37.330 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:33:37.346 [main]INFO  pages.UserHomePage - User Home page is displayed
+21:33:37.346 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+21:33:38.946 [main]INFO  pages.UserHomePage - Clicked on logout link
+21:33:39.402 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:33:41.003 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:33:44.349 [main]INFO  utilities.BaseSteps - Navigated to application
+21:33:44.353 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:33:46.262 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:33:46.265 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:33:46.282 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:33:46.283 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:33:46.611 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
+21:33:46.793 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses1
+21:33:46.794 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:33:48.225 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:33:48.227 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:35:55.806 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:35:58.318 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:36:01.668 [main]INFO  utilities.BaseSteps - Navigated to application
+21:36:01.717 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:36:04.260 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:36:04.262 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:36:04.278 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:36:04.797 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:36:06.415 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:36:11.363 [main]INFO  utilities.BaseSteps - Navigated to application
+21:36:11.364 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:36:13.498 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:36:13.499 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:36:13.526 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:36:13.530 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:36:13.861 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+21:36:14.012 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+21:36:14.013 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:36:18.293 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:36:18.296 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:36:18.321 [main]INFO  pages.UserHomePage - User Home page is displayed
+21:36:18.324 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+21:36:19.907 [main]INFO  pages.UserHomePage - Clicked on logout link
+21:42:52.215 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:42:55.325 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:42:59.868 [main]INFO  utilities.BaseSteps - Navigated to application
+21:42:59.909 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:43:02.036 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:43:02.042 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:43:02.068 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:43:02.569 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:43:04.241 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:43:07.837 [main]INFO  utilities.BaseSteps - Navigated to application
+21:43:07.843 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:43:09.226 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:43:09.230 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:43:09.253 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:43:09.261 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:43:09.609 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+21:43:09.767 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+21:43:09.769 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:43:14.775 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:43:14.778 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:43:14.793 [main]INFO  pages.UserHomePage - User Home page is displayed
+21:43:14.795 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+21:43:16.133 [main]INFO  pages.UserHomePage - Clicked on logout link
+21:46:52.650 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:46:55.808 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:47:00.846 [main]INFO  utilities.BaseSteps - Navigated to application
+21:47:00.915 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:47:02.253 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:47:02.261 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:47:02.310 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:47:03.160 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:47:05.145 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:47:08.354 [main]INFO  utilities.BaseSteps - Navigated to application
+21:47:08.363 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:47:09.598 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:47:09.600 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:47:09.613 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:47:09.617 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:47:09.916 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+21:47:10.087 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+21:47:10.090 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:47:12.096 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:47:12.099 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:47:12.120 [main]INFO  pages.UserHomePage - User Home page is displayed
+21:47:12.125 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+21:47:13.593 [main]INFO  pages.UserHomePage - Clicked on logout link
+21:47:14.091 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:47:15.832 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:47:19.384 [main]INFO  utilities.BaseSteps - Navigated to application
+21:47:19.394 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:47:20.719 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:47:20.721 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:47:20.733 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:47:20.736 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:47:21.029 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+21:47:21.207 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+21:47:21.209 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:47:23.417 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:47:23.420 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+21:47:23.441 [main]INFO  pages.UserHomePage - User Home page is displayed
+21:47:23.443 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+21:47:24.864 [main]INFO  pages.UserHomePage - Clicked on logout link
+21:47:25.404 [main]INFO  utilities.BrowserFactory - Browser is chrome
+21:47:26.938 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+21:47:30.398 [main]INFO  utilities.BaseSteps - Navigated to application
+21:47:30.404 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+21:47:31.861 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+21:47:31.863 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+21:47:31.877 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+21:47:31.878 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+21:47:32.231 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
+21:47:32.400 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses1
+21:47:32.401 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+21:47:33.635 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+21:47:33.637 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+22:11:07.131 [main]INFO  utilities.BrowserFactory - Browser is chrome
+22:11:17.290 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+22:11:27.031 [main]INFO  utilities.BaseSteps - Navigated to application
+22:11:27.211 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+22:11:29.445 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+22:11:29.452 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+22:11:29.499 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+22:11:52.306 [main]INFO  utilities.BrowserFactory - Browser is chrome
+22:12:00.027 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+22:12:05.615 [main]INFO  utilities.BaseSteps - Navigated to application
+22:12:05.622 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+22:12:10.560 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+22:12:10.571 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+22:12:11.060 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+22:12:11.075 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+22:12:13.081 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+22:12:13.870 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+22:12:13.881 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+22:12:25.120 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+22:12:25.127 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+22:12:25.160 [main]INFO  pages.UserHomePage - User Home page is displayed
+22:12:25.164 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+22:12:30.146 [main]INFO  pages.UserHomePage - Clicked on logout link
+22:12:31.694 [main]INFO  utilities.BrowserFactory - Browser is chrome
+22:12:40.889 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+22:12:46.843 [main]INFO  utilities.BaseSteps - Navigated to application
+22:12:46.849 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+22:12:49.163 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+22:12:49.170 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+22:12:50.511 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+22:12:50.517 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+22:12:52.008 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+22:12:52.463 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+22:12:52.470 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+22:12:57.176 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+22:12:57.185 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+22:12:57.253 [main]INFO  pages.UserHomePage - User Home page is displayed
+22:12:57.261 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+22:12:59.224 [main]INFO  pages.UserHomePage - Clicked on logout link
+22:13:01.407 [main]INFO  utilities.BrowserFactory - Browser is chrome
+22:13:06.539 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+22:13:11.794 [main]INFO  utilities.BaseSteps - Navigated to application
+22:13:11.797 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+22:13:13.367 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+22:13:13.372 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+22:13:13.410 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+22:13:13.412 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+22:13:14.446 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
+22:13:14.931 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses1
+22:13:14.934 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+22:13:16.453 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+22:13:16.459 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+22:21:48.081 [pool-3-thread-1]INFO  utilities.BrowserFactory - Browser is chrome
+22:21:57.356 [pool-3-thread-3]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+22:21:57.358 [pool-3-thread-2]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+22:21:57.359 [pool-3-thread-1]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+22:22:02.795 [pool-3-thread-3]INFO  utilities.BaseSteps - Navigated to application
+22:22:03.328 [pool-3-thread-3]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+22:22:03.807 [pool-3-thread-1]INFO  utilities.BaseSteps - Navigated to application
+22:22:03.816 [pool-3-thread-1]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+22:22:04.746 [pool-3-thread-2]INFO  utilities.BaseSteps - Navigated to application
+22:22:04.754 [pool-3-thread-2]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+22:22:05.650 [pool-3-thread-3]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+22:22:05.657 [pool-3-thread-3]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+22:22:05.796 [pool-3-thread-3]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+22:22:05.817 [pool-3-thread-3]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+22:22:06.276 [pool-3-thread-3]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+22:22:06.694 [pool-3-thread-3]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+22:22:06.697 [pool-3-thread-3]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+22:22:07.424 [pool-3-thread-2]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+22:22:07.427 [pool-3-thread-2]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+22:22:07.483 [pool-3-thread-2]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+22:22:10.092 [pool-3-thread-3]INFO  pages.SignUpLoginPage - Clicked on login button
+22:22:10.096 [pool-3-thread-3]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+22:22:10.174 [pool-3-thread-3]INFO  pages.UserHomePage - User Home page is displayed
+22:22:10.176 [pool-3-thread-3]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+22:22:10.509 [pool-3-thread-1]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+22:22:10.511 [pool-3-thread-1]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+22:22:10.550 [pool-3-thread-1]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+22:22:12.766 [pool-3-thread-3]INFO  pages.UserHomePage - Clicked on logout link
+22:22:15.188 [pool-3-thread-3]INFO  utilities.BrowserFactory - Browser is chrome
+22:22:18.609 [pool-3-thread-3]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+22:22:21.969 [pool-3-thread-3]INFO  utilities.BaseSteps - Navigated to application
+22:22:21.972 [pool-3-thread-3]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+22:22:23.454 [pool-3-thread-3]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+22:22:23.455 [pool-3-thread-3]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+22:22:23.468 [pool-3-thread-3]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+22:22:23.469 [pool-3-thread-3]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+22:22:23.835 [pool-3-thread-3]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+22:22:23.958 [pool-3-thread-3]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+22:22:23.959 [pool-3-thread-3]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+22:22:28.138 [pool-3-thread-3]INFO  pages.SignUpLoginPage - Clicked on login button
+22:22:28.140 [pool-3-thread-3]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+22:22:28.159 [pool-3-thread-3]INFO  pages.UserHomePage - User Home page is displayed
+22:22:28.160 [pool-3-thread-3]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+22:22:29.985 [pool-3-thread-3]INFO  pages.UserHomePage - Clicked on logout link
+22:22:30.750 [pool-3-thread-3]INFO  utilities.BrowserFactory - Browser is chrome
+22:22:33.194 [pool-3-thread-3]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+22:22:38.529 [pool-3-thread-3]INFO  utilities.BaseSteps - Navigated to application
+22:22:38.532 [pool-3-thread-3]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+22:22:40.006 [pool-3-thread-3]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+22:22:40.008 [pool-3-thread-3]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+22:22:40.020 [pool-3-thread-3]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+22:22:40.021 [pool-3-thread-3]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+22:22:40.378 [pool-3-thread-3]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses1@gmail.com
+22:22:40.494 [pool-3-thread-3]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses1
+22:22:40.495 [pool-3-thread-3]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+22:22:41.906 [pool-3-thread-3]INFO  pages.SignUpLoginPage - Clicked on login button
+22:22:41.909 [pool-3-thread-3]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+16:45:19.867 [main]INFO  utilities.BrowserFactory - Browser is chrome
+16:51:24.999 [main]INFO  utilities.BrowserFactory - Browser is edge
+16:51:28.167 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+16:51:28.203 [main]INFO  utilities.BrowserFactory - Browser is edge
+16:51:29.567 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+16:51:29.682 [main]INFO  utilities.BrowserFactory - Browser is edge
+16:51:31.402 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+16:51:31.417 [main]INFO  utilities.BrowserFactory - Browser is edge
+16:51:33.075 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+16:51:33.088 [main]INFO  utilities.BrowserFactory - Browser is edge
+16:51:34.547 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+16:52:15.667 [main]INFO  utilities.BrowserFactory - Browser is firefox
+16:53:03.812 [main]INFO  utilities.BrowserFactory - Browser is firefox
+16:53:09.835 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+16:53:17.803 [main]INFO  utilities.BaseSteps - Navigated to application
+16:53:17.824 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+16:53:20.446 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+16:53:20.449 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+16:53:20.458 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+16:53:21.428 [main]INFO  utilities.BrowserFactory - Browser is firefox
+16:53:25.878 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+16:53:51.987 [main]INFO  utilities.BaseSteps - Navigated to application
+16:53:51.989 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+16:53:53.367 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+16:53:53.368 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+16:53:53.373 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+16:53:54.252 [main]INFO  utilities.BrowserFactory - Browser is firefox
+16:53:58.729 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+16:54:03.890 [main]INFO  utilities.BaseSteps - Navigated to application
+16:54:03.893 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+16:54:06.114 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+16:54:06.117 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+16:54:06.130 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+16:54:06.137 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+16:54:06.195 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+16:54:06.221 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+16:54:06.222 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+16:54:06.337 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+16:54:06.339 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+16:54:08.368 [main]INFO  utilities.BrowserFactory - Browser is firefox
+16:54:12.764 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+16:54:38.705 [main]INFO  utilities.BaseSteps - Navigated to application
+16:54:38.707 [main]INFO  stepDefination.OpenLogInPageStepDef - User  trying to click on log in link
+16:54:41.381 [main]INFO  pages.HomePage - Clicked on SignUp Or Login Link
+16:54:41.390 [main]INFO  stepDefination.SignUpLogInPageStepDef - Verifying SignUp/Login Page is displayed
+16:54:41.446 [main]INFO  pages.SignUpLoginPage - SignUp Or Login page is displayed
+16:54:41.447 [main]INFO  stepDefination.SignUpLogInPageStepDef - User is entering user Name and password
+16:54:41.830 [main]INFO  pages.SignUpLoginPage - Entered User name as :QAAutomationClasses@gmail.com
+16:54:42.114 [main]INFO  pages.SignUpLoginPage - Entered password is  :QAAutomationClasses
+16:54:42.117 [main]INFO  stepDefination.SignUpLogInPageStepDef - user is clicking on Login button
+16:54:47.928 [main]INFO  pages.SignUpLoginPage - Clicked on login button
+16:54:47.941 [main]INFO  stepDefination.UserHomePageStepDef - User is verifying application is navigated to user Home Page
+16:54:48.093 [main]INFO  pages.UserHomePage - User Home page is displayed
+16:54:48.109 [main]INFO  stepDefination.UserHomePageStepDef - User is trying to click on logout link
+16:54:50.639 [main]INFO  pages.UserHomePage - Clicked on logout link
+16:54:53.482 [main]INFO  utilities.BrowserFactory - Browser is firefox
+16:54:58.239 [main]INFO  stepDefination.OpenLogInPageStepDef - User trying to  navigate to application
+17:12:09.356 [main]INFO  utilities.BrowserFactory - Browser is firefox
+17:16:48.011 [main]INFO  utilities.BrowserFactory - Browser is firefox
+17:19:22.030 [main]INFO  utilities.BrowserFactory - Browser is firefox
+17:20:48.592 [main]INFO  utilities.BrowserFactory - Browser is firefox
+17:30:04.603 [main]INFO  utilities.BrowserFactory - Browser is firefox
+17:30:19.274 [main]INFO  utilities.BaseSteps - Navigated to application
+17:32:41.294 [main]INFO  utilities.BrowserFactory - Browser is firefox
+17:32:56.210 [main]INFO  utilities.BaseSteps - Navigated to application
+17:34:49.463 [main]INFO  utilities.BrowserFactory - Browser is firefox
+17:35:02.356 [main]INFO  utilities.BaseSteps - Navigated to application
+17:37:15.305 [main]INFO  utilities.BrowserFactory - Browser is firefox
+17:37:28.190 [main]INFO  utilities.BaseSteps - Navigated to application
+17:45:27.499 [main]INFO  utilities.BrowserFactory - Browser is firefox
+17:45:47.306 [main]INFO  utilities.BaseSteps - Navigated to application
+18:14:59.994 [main]INFO  utilities.BrowserFactory - Browser is firefox
+18:15:13.909 [main]INFO  utilities.BaseSteps - Navigated to application
+18:17:09.738 [main]INFO  utilities.BrowserFactory - Browser is edge
+18:17:29.547 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:17:40.427 [main]INFO  utilities.BaseSteps - Navigated to application
+18:19:22.610 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:19:31.647 [main]INFO  utilities.BaseSteps - Navigated to application
+18:21:01.954 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:21:10.681 [main]INFO  utilities.BaseSteps - Navigated to application
+18:22:42.146 [main]INFO  utilities.BrowserFactory - Browser is chrome
+18:22:54.865 [main]INFO  utilities.BaseSteps - Navigated to application
