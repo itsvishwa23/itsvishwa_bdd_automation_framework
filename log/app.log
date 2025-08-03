@@ -760,3 +760,5 @@
 18:21:10.681 [main]INFO  utilities.BaseSteps - Navigated to application
 18:22:42.146 [main]INFO  utilities.BrowserFactory - Browser is chrome
 18:22:54.865 [main]INFO  utilities.BaseSteps - Navigated to application
+19:14:59.590 [main]INFO  utilities.BrowserFactory - Browser is chrome
+19:15:04.799 [main]INFO  utilities.BaseSteps - Navigated to application
