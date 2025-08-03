@@ -38,7 +38,6 @@ public class LoginPage {
     // Actions
 
     public void navigateToLoginPage() {
-        driver.get("https://opensource-demo.orangehrmlive.com/web/index.php/auth/login");
         waitForVisibility(driver, usernameField, 10);
     }
 

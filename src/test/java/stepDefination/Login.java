@@ -16,6 +16,7 @@ public class Login {
 
     @Given("User is on the OrangeHRM login page")
     public void user_is_on_login_page() {
+        loginpage = new LoginPage(driver);
         loginpage.navigateToLoginPage();
     }
 

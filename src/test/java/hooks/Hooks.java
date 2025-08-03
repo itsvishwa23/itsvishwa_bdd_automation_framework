@@ -1,5 +1,6 @@
 package hooks;
 
+import utilities.BaseSteps;
 import utilities.BrowserFactory;
 import io.cucumber.java.After;
 import io.cucumber.java.Before;
@@ -13,8 +14,10 @@ public class Hooks {
     private WebDriver driver;
     @Before
     public void setUp(){
-        browserFactory= new BrowserFactory();
-        driver= browserFactory.browserSetup();
+        browserFactory = new BrowserFactory();
+        driver = browserFactory.browserSetup();
+        BaseSteps baseSteps = new BaseSteps();
+        baseSteps.openURL(driver);
     }
    @After(order=0)
     public void tearDown(){
