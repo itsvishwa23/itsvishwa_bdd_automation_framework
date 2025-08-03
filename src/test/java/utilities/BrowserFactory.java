@@ -1,4 +1,4 @@
-package automationUtilities;
+package utilities;
 
 import org.openqa.selenium.WebDriver;
 import org.apache.logging.log4j.Logger;
